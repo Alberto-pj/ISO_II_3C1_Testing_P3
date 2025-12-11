@@ -1,3 +1,4 @@
+package testing_p3.src.main.java.com.example;
 /* Al ser programa de testeo todo se instancia en el main y se llama al metodo recomendacion que es la funcionalidad principal del
  programa */
 

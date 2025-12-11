@@ -1,3 +1,4 @@
+package testing_p3.src.main.java.com.example;
 public class Persona {
 	private int id;
 	boolean plenasFacultades;

@@ -1,4 +1,6 @@
+package testing_p3.src.main.java.com.example;
 // Clase que realiza las recomendaciones finales de cara al cliente
+
 public class MotorRecomendaciones {
 	public Recomendacion recomendar(Persona persona, Meteo m,
             boolean aforoEsquiPermitido,
