@@ -5,4 +5,4 @@ Este repositorio se usará para realizar el problema 3 del Segundo Ejercicio Te�
 | :---: | :---: | :---: |
 | **Problema 3 (ET.02.04)** | **Paso 1: Implementación del Programa** | David Dionisio - Sebastián Medina |
 | **Problema 3 (ET.02.04)** | **Paso 2: Diseño de Casos de Prueba (Ejercicio Teórico)** | Adrián Delgado Martínez - Andrés Doncel Rodríguez de Diego|
-| **Problema 3 (ET.02.04)** | **Paso 3: Implementación de Pruebas jUnit (Prácticas)** | [Nombre Pareja 3] |
+| **Problema 3 (ET.02.04)** | **Paso 3: Implementación de Pruebas jUnit (Prácticas)** | Alberto Barato - Jorge Assis de Oliveira |
