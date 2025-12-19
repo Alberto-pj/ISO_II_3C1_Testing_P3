@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+demo,testing_p3.src.main.java.com.example,MotorRecomendaciones,0,113,11,39,0,16,11,16,0,2
+demo,testing_p3.src.main.java.com.example,Persona,0,30,0,4,0,7,0,5,0,3
+demo,testing_p3.src.main.java.com.example,App,3,57,0,0,1,16,1,1,1,1
+demo,testing_p3.src.main.java.com.example,Recomendacion,0,45,0,0,0,8,0,1,0,1
+demo,testing_p3.src.main.java.com.example,Meteo,0,13,0,4,0,2,0,4,0,2
